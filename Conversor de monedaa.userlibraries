@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="google.code.gson">
+    <archive path="D:/Descargas Disk D/gson-2.9.0.jar" />
+  </library>
+</eclipse-userlibraries>
+
